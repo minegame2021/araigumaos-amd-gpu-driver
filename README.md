@@ -15,5 +15,8 @@ Want a support for AMD GPUs in AraigumaOS? Here's what do you need!
 
 ● Fixed Sleep Mode and WDDM 2.0
 
+# Issues
+I tested this driver on Radeon R7 265. I don't know if it would work on your card.
+
 # Screenshots
 ![alt text](https://media.discordapp.net/attachments/742302504909275221/921058698904891453/Screenshot_AraigumaOS_16_12_2021_22_10_23.png?width=1920&height=1080)
