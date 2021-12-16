@@ -14,3 +14,6 @@ Want a support for AMD GPUs in AraigumaOS? Here's what do you need!
 ● Preinstalled Radeon™ Software
 
 ● Fixed Sleep Mode and WDDM 2.0
+
+# Screenshots
+![alt text](https://media.discordapp.net/attachments/742302504909275221/921058698904891453/Screenshot_AraigumaOS_16_12_2021_22_10_23.png?width=1920&height=1080)
