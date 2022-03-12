@@ -1,5 +1,8 @@
-# AMD GPUs support for AraigumaOS
+# AMD GPUs support for AraigumaOS (OUTDATED)
 Want a support for AMD GPUs in AraigumaOS? Here's what do you need!
+
+# Notes:
+With build 4000, AMD drivers are already implemented in AraigumaOS. This instruction works on builds 3900 and earlier.
 
 # Installation
 1. Download the files from the "Release" branch.
